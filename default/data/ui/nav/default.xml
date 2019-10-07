@@ -1,0 +1,6 @@
+<nav search_view="search" color="#4285f4">
+  <view name="metrics_overview" default='true' />
+  <view name="audit_log_overview" />
+  <view name="billing_overview" />
+  <view name="search"/>
+</nav>
